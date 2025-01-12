@@ -7,11 +7,11 @@
 #
 # Then, build the image with:
 #
-# docker build -f src/main/docker/Dockerfile.native -t quarkus/metadata-driven-architecture .
+# docker build -f src/main/docker/Dockerfile.native -t quarkus/meta-driven-architecture .
 #
 # Then run the container using:
 #
-# docker run -i --rm -p 8080:8080 quarkus/metadata-driven-architecture
+# docker run -i --rm -p 8080:8080 quarkus/meta-driven-architecture
 #
 ###
 FROM registry.access.redhat.com/ubi8/ubi-minimal:8.8

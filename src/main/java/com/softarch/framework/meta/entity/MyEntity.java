@@ -1,4 +1,4 @@
-package com.haoweihu;
+package com.softarch.framework.meta.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
