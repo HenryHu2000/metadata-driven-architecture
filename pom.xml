@@ -87,8 +87,12 @@
     <dependency>
       <groupId>jakarta.enterprise</groupId>
       <artifactId>jakarta.enterprise.cdi-api</artifactId>
-      <version>4.0.1</version>
     </dependency>
+    <dependency>
+    <groupId>org.jboss</groupId>
+    <artifactId>jboss-vfs</artifactId>
+    <version>3.2.15.Final</version>
+</dependency>
   </dependencies>
   <build>
     <plugins>
